@@ -7,6 +7,7 @@ The workbook contains a 5,000-record customer dataset, pivot-table analysis, and
 
 ## Tools Used
 - Microsoft Excel
+- KPI cards
 - Pivot Tables
 - Pivot Charts
 - Excel formulas and data summarisation
@@ -44,7 +45,6 @@ The Excel workbook is organised into raw data, pivot analysis, and dashboard wor
 - **3rd page dashboard** – Customer preference and payment analysis.
 - **4th pivot** – Genre-wise subscription revenue analysis.
 - **4th page dashboard** – Further customer engagement and revenue analysis.
-
 
 *Worksheet names above follow the workbook. Dashboard topics and chart contents can be explored in the Excel file.*
 
@@ -87,13 +87,18 @@ Open the Excel workbook in this repository:
 Download the workbook to explore the pivot tables, calculations, and dashboards. Microsoft Excel is recommended for the best experience with interactive workbook features.
 
 ## Dashboard Screenshots
-Add screenshots of your completed dashboards to a folder named `Dashboard-Screenshots`, then insert them here:
+1.Netflix analysis dashboard
+<img width="1920" height="1020" alt="dashboard-1" src="https://github.com/user-attachments/assets/353efe6a-53ef-4da3-b9c5-173f196badac" />
 
-```md
-![Netflix Dashboard 1](Dashboard-Screenshots/dashboard-1.png)
-![Netflix Dashboard 2](Dashboard-Screenshots/dashboard-2.png)
-![Netflix Dashboard 3](Dashboard-Screenshots/dashboard-3.png)
-```
+2.Netflix customer churn analysis
+<img width="1920" height="1020" alt="dashboard-2" src="https://github.com/user-attachments/assets/ef810e3e-8abb-4e2d-b277-1ee64d8cf75b" />
+
+3.Netflix customer preference and payment analysis
+<img width="1920" height="1020" alt="dashboard-3" src="https://github.com/user-attachments/assets/db6280fe-3502-4043-acd3-602bb841ebf6" />
+
+4.Netflix customer engagement and revenue insights analysis
+<img width="1920" height="1020" alt="dashboard-4" src="https://github.com/user-attachments/assets/727238f3-ec81-445c-a054-1c332e40e561" />
+
 
 ## Conclusion
 This project demonstrates how Microsoft Excel can be used to analyse customer churn and engagement data, identify patterns in subscription behaviour, and present findings through dashboards. The analysis provides a practical view of how customer data can support better understanding of retention, viewing preferences, and revenue.
