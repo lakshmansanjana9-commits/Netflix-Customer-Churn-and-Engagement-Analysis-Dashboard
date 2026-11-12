@@ -44,7 +44,7 @@ The Excel workbook is organised into raw data, pivot analysis, and dashboard wor
 - **3rd page dashboard** – Customer preference and payment analysis.
 - **4th pivot** – Genre-wise subscription revenue analysis.
 - **4th page dashboard** – Further customer engagement and revenue analysis.
-- **Sheet1** – Additional copy of the customer dataset.
+
 
 *Worksheet names above follow the workbook. Dashboard topics and chart contents can be explored in the Excel file.*
 
